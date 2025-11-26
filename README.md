@@ -5,7 +5,8 @@
 <hr style="height: 6px; background-color: #000; border: none;"> <br>
 
 ## 🚀 Sobre mí
---
+
+
 `BI System administrator && DBA**` <br>
     -   📍 Madrid, España <br>
     -   ✉️ nachosanjuananaya@gmail.com  <br>
@@ -16,7 +17,8 @@
 <br>
 
 ## 🎓 Formación
---
+
+    - 📚 CFGS Administración de Sistemas Informáticos en Red
 
 
 

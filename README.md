@@ -9,7 +9,7 @@
 **BI System administrator && DBA** <br>
     📍 Madrid, España <br>
     (mail) nachosanjuananaya@gmail.com
-    🌐 <a href="www.linkedin.com/in/nacho-san-juan-anaya" target="_blank">LinkedIn</a> <br>
+    🌐 [LinkedIn] (www.linkedin.com/in/nacho-san-juan-anaya) <br>
 
 
 <hr style="height: 6px; background-color: #000; border: none;"> <br>

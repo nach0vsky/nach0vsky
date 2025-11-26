@@ -6,10 +6,10 @@
 
 ## 🚀 Sobre mí
 --
-**BI System administrator && DBA** <br>
-    📍 Madrid, España <br>
-    ✉️ nachosanjuananaya@gmail.com  <br>
-    🌐 [LinkedIn](https://www.linkedin.com/in/nacho-san-juan-anaya/) <br>
+`BI System administrator && DBA**` <br>
+    -   📍 Madrid, España <br>
+    -   ✉️ nachosanjuananaya@gmail.com  <br>
+    -   🌐 [LinkedIn](https://www.linkedin.com/in/nacho-san-juan-anaya/) <br>
 
 
 <hr style="height: 6px; background-color: #000; border: none;"> <br>
